@@ -33,5 +33,8 @@
 - [university-information](https://github.com/CollegesChat/university-information/blob/generated/README.md)（问卷调查得到的，关于大学生活质量的要求与细节）
 - [框框大学](https://www.kkdaxue.com/?current=1&pageSize=10&sortField=createTime&sortOrder=descend)（各专业前辈们提供的的学习建议）
 
+- [神人高校网](https://github.com/wsthtk/Information_resourses.git)
+ (很有意思的网站)
+
 ### CS（计算机科学）学习
 - [CS自学指南](https://csdiy.wiki/) （北大学长的计算机自学指南）
