@@ -1,9 +1,5 @@
 # Information_resourses 信息获取资源指南
 
-## 声明
-
-本人为高中生，这是我创建的第一个项目。由于不太熟悉 GitHub，如有不当之处还请指出。
-
 ## 简介
 
 由于互联网时代的信息越来越多，找到有用的、高质量的信息源变得越来越难。很多人并不知道有哪些渠道获取信息。
@@ -33,5 +29,13 @@
 - [university-information](https://github.com/CollegesChat/university-information/blob/generated/README.md)（问卷调查得到的，关于大学生活质量的要求与细节）
 - [框框大学](https://www.kkdaxue.com/?current=1&pageSize=10&sortField=createTime&sortOrder=descend)（各专业前辈们提供的的学习建议）
 
+
 ### CS（计算机科学）学习
 - [CS自学指南](https://csdiy.wiki/) （北大学长的计算机自学指南）
+
+
+### 国内的高质量信息渠道
+- 微信公众号
+- 知乎
+- 小红书
+- Bilibili
