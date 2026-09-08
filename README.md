@@ -17,8 +17,15 @@
 
 ### 科技新闻获取
 
--  [周刊－阮一峰的网络日志](https://www.ruanyifeng.com/blog/weekly/) （周更）
-- Bilibili up 主：玄离 199 的[科技信息断网补全](https://space.bilibili.com/67079745/lists/3173076?type=season)（周更）
+#### 周更
+-  [周刊－阮一峰的网络日志](https://www.ruanyifeng.com/blog/weekly/) 
+- [科技信息断网补全](https://space.bilibili.com/67079745/lists/3173076?type=season)（Bilibili up 主：玄离 199）
+
+#### 日更
+- [橘鸦Juya的个人空间-橘鸦Juya个人主页-哔哩哔哩视频](https://space.bilibili.com/285286947?spm_id_from=333.1387.follow.user_card.click)
+- [量子位Daily的个人空间-量子位Daily个人主页-哔哩哔哩视频](https://space.bilibili.com/3546619041548912?spm_id_from=333.1387.follow.user_card.click)
+
+#### 实时
 - [NewsNow|实时](https://newsnow.busiyi.world/c/realtime)
 - [FeedMe](https://feedme.icu/)
 
@@ -28,9 +35,8 @@
 - [上海交通大学学生生存手册](https://file.cz123.top/6Social_book/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)（神书）
 - [university-information](https://github.com/CollegesChat/university-information/blob/generated/README.md)（问卷调查得到的，关于大学生活质量的要求与细节）
 - [框框大学](https://www.kkdaxue.com/?current=1&pageSize=10&sortField=createTime&sortOrder=descend)（各专业前辈们提供的的学习建议）
+- [神人高校网](https://srgaoxiao.cn/) (很有意思的网站)
 
-- [神人高校网](https://srgaoxiao.cn/)
- (很有意思的网站)
 
 ### CS（计算机科学）学习
 - [CS自学指南](https://csdiy.wiki/) （北大学长的计算机自学指南）
